@@ -17,14 +17,14 @@ My hobbies include video editing, music composing and photography.
 I'm a full-time freelancer, always looking for new challenges and inspiring projects.
 
 ### Skills
- - Project Management and planning.
- - Client-side and server-side development.
- - UI/UX Blueprinting and Design.
- - Linux server setup and administration.
- - Graphic/Logo Design.
- - Version control, automated testing/build/deployment.
- - Video editing and animation.
- - Music composing.
+- Project Management and planning.
+- Client-side and server-side development.
+- UI/UX Blueprinting and Design.
+- Linux server setup and administration.
+- Graphic/Logo Design.
+- Version control, automated testing/build/deployment.
+- Video editing and animation.
+- Music composing.
 
 I'm currently developing in __Javascript__, __React__, __React Native__ and __NodeJS__
 creating APIs, Backends, Front-ends, and mobile applications.
