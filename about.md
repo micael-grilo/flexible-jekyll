@@ -14,7 +14,7 @@ I'm more than just a full-stack developer, I'm a graphic designer and
 I love to create user interfaces.
 My hobbies include video editing, music composing and photography.
 
-I'm a full-time freelancer, always looking for new challenges and inspiring projects.
+I'm a full-time freelancer, always looking for new challenges and inspiring projects.  
 
 ### Skills
 - Project Management and planning.
