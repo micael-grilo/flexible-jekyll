@@ -11,9 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Micael F. Grilo # add your name
 author-img: micael-grilo.jpeg # add your photo
-about-author: I am a software developer focusing on Python programming language. Always hungry to keep learning. # add description
+about-author: I am a software developer focused on Python programming language. Always hungry to keep learning. # add description
 social-twitter: micael_grilo # add your Twitter handle
-social-facebook: null # add your Facebook handle
+social-facebook: false # add your Facebook handle
 social-github: micael-grilo # add your Github handle
 social-linkedin: micael-grilo # add your Linkedin handle
 social-email: micael.grilo@outlook.com # add your Email address
