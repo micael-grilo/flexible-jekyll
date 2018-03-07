@@ -1005,6 +1005,17 @@ table tfoot td {
           align-items: stretch;
 }
 
+.sidebar-content {
+   text-align: center;
+   font-size: x-large;
+   font-family: 'PT Serif', serif;
+   color: #333030 !important;  
+}
+
+.sidebar-content a{
+   text-decoration: none;
+}
+
 .contact .contact-title {
   position: relative;
   color: #333030;
