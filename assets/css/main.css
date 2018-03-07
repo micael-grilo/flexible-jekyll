@@ -1014,6 +1014,7 @@ table tfoot td {
 
 .sidebar-content a{
    text-decoration: none;
+   color: unset;
 }
 
 .contact .contact-title {
