@@ -6,23 +6,18 @@ permalink: /about/
 
 
 ## Nice meeting you
-
 I'm always fascinated by new challenges, especially when it comes to cutting-edge technologies.
-
 I find myself at the intersection between __creativity__ and __logic__, solving problems
 with a fresh and multidisciplinary approach.
-
 My world became made of code long before I started shaving. In the last __13 years__ _of my freelance career_, I have developed in a multitude of programming languages starting from C to python, ruby and javascript.
-
 I'm more than just a full-stack developer, I'm a graphic designer and
 I love to create user interfaces.
-
 My hobbies include video editing, music composing and photography.
 
 I'm a full-time freelancer, always looking for new challenges and inspiring projects.
 
-## Skills
 
+## Skills
  - Project Management and planning.
  - Client-side and server-side development.
  - UI/UX Blueprinting and Design.
