@@ -16,6 +16,7 @@ My hobbies include video editing, music composing and photography.
 
 I'm a full-time freelancer, always looking for new challenges and inspiring projects.
 
+
 ## Skills
  - Project Management and planning.
  - Client-side and server-side development.
@@ -31,7 +32,6 @@ creating APIs, Backends, Front-ends, and mobile applications.
 I love __HTML5__, and __CSS3__/__Less__ which I use to make very cool and responsive UI.  
 
 __MongoDB__, __Redis__, __GraphQL__ and a bunch of __Relational Databases__ are always in my mind and at the tip of my fingertips.
-
 I have also a good knowledge of __PHP__, __Angular.js__, __Python__, and I have no problem dealing with other languages such as  __Java__, __C/C++/C#__, __LUA__, etc.
 
 I think of a programming language is just a tool in one's toolbox.
