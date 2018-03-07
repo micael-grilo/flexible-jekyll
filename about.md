@@ -16,7 +16,6 @@ My hobbies include video editing, music composing and photography.
 
 I'm a full-time freelancer, always looking for new challenges and inspiring projects.
 
-
 ## Skills
  - Project Management and planning.
  - Client-side and server-side development.
@@ -38,3 +37,4 @@ I think of a programming language is just a tool in one's toolbox.
 You just have to pick the right tool for the job.
 
 Always experimenting, always learning, never bored.
+KISS! (Keep It Simple stupid!)
