@@ -1,8 +1,6 @@
 title: Hello, world! I'm Micael Grilo
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Micael F. Grilo, Python Software Engineer at Lisbon.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Micael F. Grilo # add your name
 author-img: micael-grilo.jpeg # add your photo
-about-author: I am a software developer focused on Python programming language. Always hungry to keep learning. # add description
+about-author: I am a software developer who specializes in Python programming language. # add description
 social-twitter: micael_grilo # add your Twitter handle
 social-facebook: false # add your Facebook handle
 social-github: micael-grilo # add your Github handle
