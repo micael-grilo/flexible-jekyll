@@ -4,38 +4,26 @@ title: About
 permalink: /about/
 ---
 
+## Nice to meet you
+I'm always fascinated by new challenges, especially when it comes to cutting-edge technologies. I find myself at the intersection between __creativity__ and __logic__, solving problems with a fresh and multidisciplinary approach.
 
-## Nice meeting you
-I'm always fascinated by new challenges, especially when it comes to cutting-edge technologies.
-I find myself at the intersection between __creativity__ and __logic__, solving problems
-with a fresh and multidisciplinary approach.
-My world became made of code long before I started shaving. In the last __13 years__ _of my freelance career_, I have developed in a multitude of programming languages starting from C to python, ruby and javascript.
-I'm more than just a full-stack developer, I'm a graphic designer and
-I love to create user interfaces.
-My hobbies include video editing, music composing and photography.
+From a young age, computers have held my interest. I was using Linux, building and repairing computers, and teaching myself C in my teens before I began my college career in Computer Science at 19. A few years later, I completed a BSc degree in __Computer Science and Engineering__ at University of Beira Interior (UBI), Portugal. As a research assistant at UBI, I helped a team by implementing a full stack application to gather and display real-time body sensor data in a friendly and innovative dashboard and authored a paper in MITA 2014 conference.
 
-I'm a full-time freelancer, always looking for new challenges and inspiring projects.  
+A full-time __self-learner__, I am constantly working on my own ideas like building applications, automating boring tasks, playing with machine learning, AI, computer vision, AR and discovering the marvels of cyber security.
 
 ### Skills
-- Project Management and planning.
-- Client-side and server-side development.
-- UI/UX Blueprinting and Design.
-- Linux server setup and administration.
-- Graphic/Logo Design.
+- Python, Javascript, C
+- Full Stack Web / App Development
+- Machine Learning / Artificial Intelligence / Chatbots
+- Cryptography / Blockchain / Cyber Security
+- Computer Vision / Augmented Reality
 - Version control, automated testing/build/deployment.
-- Video editing and animation.
-- Music composing.
 
-I'm currently developing in __Javascript__, __React__, __React Native__ and __NodeJS__
-creating APIs, Backends, Front-ends, and mobile applications.
-I love __HTML5__, and __CSS3__/__Less__ which I use to make very cool and responsive UI.  
+
+I'm currently developing in __Python__ and __Javascript__ creating APIs, Backends, Front-ends, and mobile applications.
 
 __MongoDB__, __Redis__, __GraphQL__ and a bunch of __Relational Databases__ are always in my mind and at the tip of my fingertips.
-I have also a good knowledge of __PHP__, __Angular.js__, __Python__, and I have no problem dealing with other languages such as  __Java__, __C/C++/C#__, __LUA__, etc.
-
-I think of a programming language is just a tool in one's toolbox.
-You just have to pick the right tool for the job.
 
 Always experimenting, always learning, never bored.
 
-KISS! (Keep It Simple stupid!)
+KISS! (Keep It Simple, Stupid!)
