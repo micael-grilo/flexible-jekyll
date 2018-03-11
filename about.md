@@ -24,4 +24,5 @@ I'm currently developing in __Python__ and __Javascript__ creating APIs, Backend
 
 Always experimenting, always learning, never bored.  
 
-KISS! (Keep It Simple, Stupid!)
+
+KISS! (Keep It Simple, Stupid!).
