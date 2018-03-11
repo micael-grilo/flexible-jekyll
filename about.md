@@ -20,10 +20,8 @@ A full-time __self-learner__, I am constantly working on my own ideas like build
 - Version control, automated testing/build/deployment.
 
 
-I'm currently developing in __Python__ and __Javascript__ creating APIs, Backends, Front-ends, and mobile applications.
+I'm currently developing in __Python__ and __Javascript__ creating APIs, Backends, Front-ends, and mobile applications. __MongoDB__, __Redis__, __GraphQL__ and a bunch of __Relational Databases__ are always in my mind and at the tip of my fingertips.
 
-__MongoDB__, __Redis__, __GraphQL__ and a bunch of __Relational Databases__ are always in my mind and at the tip of my fingertips.
-
-Always experimenting, always learning, never bored.
+Always experimenting, always learning, never bored.  
 
 KISS! (Keep It Simple, Stupid!)
