@@ -11,7 +11,7 @@ From a young age, computers have held my interest. I was using Linux, building a
 
 A full-time __self-learner__, I am constantly working on my own ideas like building applications, automating boring tasks, playing with machine learning, AI, computer vision, AR and discovering the marvels of cyber security.
 
-### Skills
+## Skills
 - Python, Javascript, C
 - Full Stack Web / App Development
 - Machine Learning / Artificial Intelligence / Chatbots
@@ -26,3 +26,4 @@ Always experimenting, always learning, never bored.
 
 
 KISS! (Keep It Simple, Stupid!).
+
