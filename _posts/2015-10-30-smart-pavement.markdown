@@ -3,7 +3,7 @@ layout: post
 title: Smart Pavement with a Raspberry Pi
 date: 2015-10-30 00:00:00 +0300
 description: Smart Pavement with a Raspberry Pi
-img: workflow.jpg # Add image post (optional)
+img: raspberry.png # Add image post (optional)
 tags: [Python, Raspberry Pi] # add tag
 ---
 
