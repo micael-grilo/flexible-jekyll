@@ -14,4 +14,4 @@ Monitoring the health status of patients is a key task in hospitals. Medical sta
 
 ### Article
 
-<iframe src="https://drive.google.com/file/d/1-wE6VWNQoaHFyw6xrtIFNTdFnth-bMpB/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1-wE6VWNQoaHFyw6xrtIFNTdFnth-bMpB/preview" width="100%" height="1000px"></iframe>
