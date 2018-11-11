@@ -3,7 +3,7 @@ layout: post
 title: Real-time Patient's Monitoring with BSNs
 date: 2014-07-01 13:32:20 +0300
 description: A Web-based Application for Real-time Patient's Monitoring using Body Sensor Networks
-img: i-rest.jpg # Add image post (optional)
+img: healthapp.png
 tags: [Meteor.JS, Python, Javascript]
 ---
 
