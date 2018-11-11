@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handwritten Digit Recognition
+title: Handwritten Digit Recognition in C
 date: 2013-11-22 00:00:00 +0300
 description: Handwritten Digit Recognition in C
 img: digitrecognition.png # Add image post (optional)
