@@ -1,0 +1,26 @@
+---
+layout: post
+title: Dados.gov - The Portuguese open data portal
+date: 2018-07-01 00:00:00 +0300
+description: The main portuguese open data portal
+img: dados_gov.png # Add image post (optional)
+tags: [Python, Flask, MongoDB] 
+---
+
+I was responsible for the new open data portal of Portugal ( https://dados.gov.pt ) at AMA - Agência para a Modernização Administrativa.
+
+My main tasks:
+- Responsible for the full-cycle, development, implementation, test and launch.
+- Communicate with the customer to clarify the requirements.
+- SCRUM practitioner and GIT source code manager.
+- Main code contributor. (All contributions public on GitHub).
+- Integrate portal with other client's systems and applications. ( Portuguese Smart ID Cards and autenticacao.gov.pt portal )
+
+Python 2.7, Flask, MongoDB, uData, Nginx, Docker, Linux CentOS 7 See less
+
+###  TODO
+Describe project
+
+
+
+
