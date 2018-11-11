@@ -1,0 +1,18 @@
+---
+layout: post
+title: Nest - An awesome chatroom app with Ionic
+date: 2017-12-15 00:00:00 +0300
+description: Nest - An awesome chatroom app with Ionic
+img: nest.png # Add image post (optional)
+tags: [Meteor.JS, Angular4, Ionic, Javascript] 
+---
+
+An awesome web/mobile app that would allow creation of chatrooms and user chatting. Verry similiar to whastapp but with new features.
+
+###  TODO
+Add more project details.
+Open-source it?
+
+
+
+
