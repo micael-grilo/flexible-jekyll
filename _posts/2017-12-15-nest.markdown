@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Nest - An awesome chatroom app with Ionic
+title: Nest - An awesome chat room app with Ionic
 date: 2017-12-15 00:00:00 +0300
-description: Nest - An awesome chatroom app with Ionic
+description: Nest - An awesome chat room app with Ionic
 img: nest.png # Add image post (optional)
 tags: [Meteor.JS, Angular4, Ionic, Javascript] 
 ---
