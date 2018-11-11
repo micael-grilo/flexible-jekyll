@@ -7,7 +7,7 @@ img: dados_gov.png # Add image post (optional)
 tags: [Python, Flask, MongoDB] 
 ---
 
-I was responsible for the new open data portal of Portugal ( https://dados.gov.pt ) at AMA - Agência para a Modernização Administrativa.
+I was responsible for the new open data portal of Portugal ([External link](https://dados.gov.pt){:target="_blank"}) at AMA - National Agency for Public Administration, during a 6 month's project.
 
 My main tasks:
 - Responsible for the full-cycle, development, implementation, test and launch.
