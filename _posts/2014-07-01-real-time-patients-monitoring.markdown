@@ -12,4 +12,7 @@ Monitoring the health status of patients is a key task in hospitals. Medical sta
 
 ### Article
 
+>Micael F. Grilo, Joel J. P. C. Rodrigues, and João M. L. P. Caldeira, “Real-Time Web-based Application For Patients’ Monitoring using Body Sensors Networks”, The 10th International Conference on Multimedia Information Technology and Applications (MITA 2014), Hong-Kong, July 9-10, 2014.
+
+
 <iframe src="https://drive.google.com/file/d/1-wE6VWNQoaHFyw6xrtIFNTdFnth-bMpB/preview" width="100%" height="1000px"></iframe>
