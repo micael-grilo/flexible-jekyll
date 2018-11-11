@@ -7,7 +7,7 @@ img: nest.png # Add image post (optional)
 tags: [Meteor.JS, Angular4, Ionic, Javascript] 
 ---
 
-An awesome web/mobile app that would allow creation of chatrooms and user chatting. Verry similiar to whastapp but with new features.
+An awesome web/mobile app that would allow creation of chatrooms and user chatting. Verry similiar to Whatsapp but with extended features.
 
 ###  TODO
 Add more project details.
