@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Nice to meet you!!!
 
-I am a software developer who specializes in Python programming language. I have 4+ years of experience in a variety of software and languages, including JavaScript, MongoDB, SQL and Java.
+I am a software developer specialized in Python programming language. I have 6+ years of experience in a variety of software and languages, including JavaScript, MongoDB, SQL and Java.
 
 From a young age, computers have held my interest. I was using Linux, building and repairing computers, and teaching myself C in my teens before I began my college career in Computer Science at 19. A few years later, I completed a BSc degree in __Computer Science and Engineering__ at University of Beira Interior (UBI), Portugal. As a research assistant at UBI, I helped a team by implementing a full stack application to gather and display real-time body sensor data in a friendly and innovative dashboard and authored a paper in MITA 2014 conference.
 
